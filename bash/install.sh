@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#執行./install.sh install自動安裝腳步
 # bash 版本
 version=0.4
 
